@@ -1,6 +1,6 @@
 # AG2 Framework Docker Image
 
-This image provides a minimal environment for running the AutoGen 2 (AG2) framework, a powerful tool for developing large language model (LLM)-based applications.
+This image provides a minimal environment for running the AutoGen 2 (AG2) framework, ag2==0.3.2, a powerful tool for developing large language model (LLM)-based applications.
 
 ## What is AG2?
 
